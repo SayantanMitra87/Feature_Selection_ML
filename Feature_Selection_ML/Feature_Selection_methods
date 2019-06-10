@@ -1,2 +1,11 @@
-Methods: Basic 
-              (Basic / Correlation / Statistical)
+Methods: 
+        BASIC_methods: (Basic / Correlation / Statistical)
+                        Basic: Constant / Quasi-constant / Duplicate feature removel
+                        CORRELATION: Correlation
+                        STATISTICAL: Mutual information / Chi-square-Fisher_score / Univariate approach / Univariate ROC-AUC
+
+                        Basic methods + correlation + univariate ROC-AUC pipeline
+                        Select features by MEAN ENCODING
+           
+           
+        WRAPPER_methods:
