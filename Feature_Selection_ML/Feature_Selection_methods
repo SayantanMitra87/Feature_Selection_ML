@@ -8,5 +8,5 @@ Methods:
                         Select features by MEAN ENCODING
            
            
-        WRAPPER_methods:
+        WRAPPER_methods: Step-forward / Step-backward / Exhaustive search
 
